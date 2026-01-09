@@ -4,6 +4,8 @@ This projects aim to create a lightweight model to detect emotions. It compares 
 - Authors : Grain Hamza, Blot--El Mazouzi Yanis, Dialo Amadou, Hayani Youssef
 ---
 
+![demo](./assets/demo.gif)
+
 ## Recognized Emotions : 
 - Anger
 - Happiness
@@ -71,6 +73,7 @@ Data augmentation (train set) :
 - define img_path with your image
 
 - launch the script
+
 
 
 
