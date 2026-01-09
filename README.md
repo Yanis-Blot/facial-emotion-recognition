@@ -40,6 +40,7 @@ This projects aim to create a lightweight model to detect emotions. It compares 
 - dataset : FER2013
 - grayscale images
 - Resolution : 48x48
+
 ![fer-2013_sample](./assets/fer-2013_sample.png)
 
 The dataset is available on Kaggle. You can run scripts/download_datasets.py to download it.
@@ -68,4 +69,5 @@ Data augmentation (train set) :
 - define img_path with your image
 
 - launch the script
+
 
