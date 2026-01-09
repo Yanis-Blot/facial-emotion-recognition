@@ -13,6 +13,7 @@ This projects aim to create a lightweight model to detect emotions. It compares 
 - Neutral
 
 ## Project Structure :
+```
 ┌- data/
 │  ├- train/
 │  └- test/
@@ -35,6 +36,7 @@ This projects aim to create a lightweight model to detect emotions. It compares 
 │
 ├- requirements.txt
 └- README.md
+```
 
 ## Dataset
 - dataset : FER2013
@@ -69,6 +71,7 @@ Data augmentation (train set) :
 - define img_path with your image
 
 - launch the script
+
 
 
 
