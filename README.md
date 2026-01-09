@@ -3,7 +3,6 @@
 This projects aim to create a lightweight model to detect emotions. It compares different models performances on the fer-2013 dataset
 - Authors : Grain Hamza, Blot--El Mazouzi Yanis, Dialo Amadou, Hayani Youssef
 ---
-![demo_img] ./img/demo_img.jpeg
 
 ## Recognized Emotions : 
 - Anger
@@ -41,7 +40,7 @@ This projects aim to create a lightweight model to detect emotions. It compares 
 - dataset : FER2013
 - grayscale images
 - Resolution : 48x48
-![fer-2013_sample] ./img/fer-2013_sample.jpeg
+![fer-2013_sample](./assets/fer-2013_sample.png)
 
 The dataset is available on Kaggle. You can run scripts/download_datasets.py to download it.
 
@@ -69,3 +68,4 @@ Data augmentation (train set) :
 - define img_path with your image
 
 - launch the script
+
